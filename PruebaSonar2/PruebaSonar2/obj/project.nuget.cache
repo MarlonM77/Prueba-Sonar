@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ETM4yPlzuOlD/qSl2eUtbZ4auWjyl5OvhkmvSMEMnDqDVG63u1ytUfaon2+VMuQB1J43RU3ox+a0WZUTHxti9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ingmarlonm\\source\\repos\\PruebaSonar\\Prueba-Sonar\\PruebaSonar2\\PruebaSonar2\\PruebaSonar2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ingmarlonm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
